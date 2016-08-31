@@ -11,6 +11,11 @@
     battery power to know when I need to plug in.
 
 
+##### Example
+
+![Terminal](https://raw.githubusercontent.com/ehime/python-batterylevel/master/images/terminal.png"Terminal")
+
+
 ##### TODO
 
   * Blink on Red / Low
