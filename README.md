@@ -13,7 +13,7 @@
 
 ##### Example
 
-![Terminal](https://raw.githubusercontent.com/ehime/python-batterylevel/master/images/terminal.png"Terminal")
+![Terminal](https://raw.githubusercontent.com/ehime/python-batterylevel/master/images/terminal.png "Terminal")
 
 
 ##### TODO
