@@ -13,4 +13,4 @@
 
 ##### TODO
 
-    - Blink on Red / Low
+  * Blink on Red / Low
